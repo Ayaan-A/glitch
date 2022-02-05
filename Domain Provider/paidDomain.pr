@@ -1,0 +1,18 @@
+*PaymentProvider: (self.hosted)
+
+*Price: ("£5.99"), "a month" - Per month!
+*Price3: (price.Tag*3*discount.Tag%), "every 3 months" - Per 3 months!
+*Price6: (price.Tag*6*discount.Tag%), "semi-anually" - Semi-anually! (6 months)
+*Price12: (price6.Tag*2*discountYearly.Tag%), "anually" - Yearly! (12 months / 1 year)
+
+*discount: ("false")
+In a percentage!
+
+*FreeSecure: ("true")
+*FSID: ./config.cfTrf("FS_ID")
+
+*API_CODE_INFORMATION: ("We will redirect your new domain to this!")
+The phrase under the API Code input!
+
+*DOMAIN_NAME_INFORMATION: ("The domain name you want (e.g. NewDomain) it <b.cannot/> contain symbols or spaces!")
+The phrase under the domain name input!
