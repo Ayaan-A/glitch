@@ -1,0 +1,11 @@
+*3dc: ("D-9823122, D-9263532, D-9109283")
+*DOMAINS: (["*@SlopedDomains", "*-SlDo", "SlDo-*", "SD-*", "*-SD"])
+
+*FreeSecure: ("true")
+*FSID: ./config.cfTrf("FS_ID")
+
+*API_CODE_INFORMATION: ("We will redirect your new domain to this!")
+The phrase under the API Code input!
+
+*DOMAIN_NAME_INFORMATION: ("The domain name you want (e.g. NewDomain) it <b.cannot/> contain symbols or spaces!")
+The phrase under the domain name input!

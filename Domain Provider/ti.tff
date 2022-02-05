@@ -1,0 +1,19 @@
+{translator.trf(_/_toldForce_TFF)="
+<apiID: nsa_APIIDDOMAINPROVIDER/>
+<do translate to trf(fileformat)/>
+<need java(script) for server.js(file)/>
+<for Trellix and PayCap use server.js(file autofind)/>
+<set subdomain as DomainProvider, custom domain is ("*.*DP")/>
+<set custom domain when subdomain is being used ("#T.Producs*.subdomain*")/>
+"}
+
+NSAFiles:{
+
+mainPage*<
+01;heading1;
+SlopeDomains
+
+02;body;
+The Cheapest Domain Provider for <b.Tryx/>!
+*>
+}
